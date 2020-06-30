@@ -3,22 +3,34 @@ I have learned a lot during the minor webdevelopment, some things from working w
 
 ## Display attribute
 ### Display block 
-The display attribute is a very handy css tool you can use to moddify the behavour of an element. Most of the common elements are a block element which means they have the same width as their parent width, and apear as a list under eachother with their siblings. Some examples of common block elements are: main, article, section, div, h1 and p.
+The display attribute is a very handy css tool you can use to moddify the behavour of an element. Most of the common elements are a block element which means they have the same width as their parent width, and apear as a list under eachother with their siblings. Some examples of common block elements are: main, article, section, div, h1 and p.  
 
-![Display block](img/display-block.png)
+![Display block](img/display-block.png)  
 Figure 1: Display block
 
 ### Display inline
-There are some exeptions, some elememts are not block elements, these are inline elements. This means that they are not 100% of their parent width and apear next to eachother. Some examples of common inline elements are: a, span, image, input, script and button
+There are some exeptions, some elememts are not block elements, these are inline elements. This means that they are not 100% of their parent width and apear next to eachother. Some examples of common inline elements are: a, span, image, input, script and button.  
 
-![Display inline](img/display-inline.png)
+![Display inline](img/display-inline.png)  
 Figure 2: Display inline
 
+### Display none
+The last classic display propety that I have used during this cource is the display none. Display none is pretty simple, it removes a element from the page compleetly like it did not existed at all. I used this a lot for switching between pages when a user presses a button. Be warned using display none uses a lot of resources from your browser because it has to redrawn the enteire page, as you can see in figure 1 and figure 3, the next elements after the removed element are moved upwards to the spot of the removed element. 
+
+![Display none](img/display-none.png)  
+Figure 3: Display none
+
+Sometimes it is better to use opacity: 0 because as you can see in figure 4, the entire page does not have te be redrawn. Opacity also works fantastic with transitions so you can do some cool things with it.
+
+![opacity](img/opacity.png)  
+Figure 3: opacity 0
+
 ### Display flex
+Over the years new dipslay propeties apreared, these propeties are not 
 
 ### Display grid
 
-### Display none
+
 
 ### Sources
 https://www.w3schools.com/html/html_blocks.asp
