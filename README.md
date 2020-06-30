@@ -23,10 +23,14 @@ Figure 3: Display none
 If you can affort it, it can somethimes better to use opacity: 0, because as you can see in figure 4, the entire page does not have te be redrawn. Opacity also works fantastic with transitions so you can do some cool things with it.
 
 ![opacity](img/opacity.png)  
-Figure 3: opacity 0
+Figure 3: Opacity 0
 
 ### Display flex
-Over the years new dipslay propeties have apreared, these propeties are not standard bound to some elements, but just as with display none, you have to assign this proppety to a element yourself. 
+Over the years new dipslay propeties have apreared, these propeties are not standard bound to some elements, but just as with display none, you have to assign this proppety to a element yourself. A flexbox is a verry cool propety, display flex  is initialy a block element. However, it changes the behaviour of its children that they are all inline. Then you can customize the children even further with other flexbox propeties, you can center or put the children on the right side of the screen, you can even play with the space between the elements to create some thing great. With "flex-wrap: wrap" It is also possible to break the children if the child elements are bigger than your flexbox container (or your screen), this is cool because with this it is much easier to make parts of your website responseable.
+
+![flex](img/flex.png)  
+Figure 3: Flexbox 0
+
 
 ### Display grid
 
