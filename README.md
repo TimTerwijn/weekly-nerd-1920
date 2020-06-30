@@ -5,14 +5,14 @@ I have learned a lot during the minor webdevelopment, some things from working w
 ### Display block 
 The display attribute is a very handy css tool you can use to moddify the behavour of an element. Most of the common elements are a block element which means they have the same width as their parent width, and apear as a list under eachother with their siblings. Some examples of common block elements are: main, article, section, div, h1 and p.
 
-![display block](img/display-block.png)
-Figure 1: Display Block
+![Display block](img/display-block.png)
+Figure 1: Display block
 
 ### Display inline
-There are some exeptions, some elememts are not a block element, because they are an inline element. This means that they are not 100% of their parent width and apear next to eachother.  
+There are some exeptions, some elememts are not block elements, these are inline elements. This means that they are not 100% of their parent width and apear next to eachother. Some examples of common inline elements are: a, span, image, input, script and button
 
-
-
+![Display inline](img/display-inline.png)
+Figure 2: Display inline
 
 ### Display flex
 
@@ -21,6 +21,7 @@ There are some exeptions, some elememts are not a block element, because they ar
 ### Display none
 
 ### Sources
+https://www.w3schools.com/html/html_blocks.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
 
