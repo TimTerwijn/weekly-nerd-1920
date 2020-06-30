@@ -3,7 +3,7 @@ I have learned a lot during the minor webdevelopment, some things from working w
 
 ## Display attribute
 ### Display block 
-The display attribute is a very handy css tool you can use to moddify the behavour of an element. Most of the common elements are a block element which means they have the same width as their parent width, and apear as a list under eachother with their siblings. Some examples of common block elements are: <main>, <article> <section>, <div>, <h1> and <p>.
+The display attribute is a very handy css tool you can use to moddify the behavour of an element. Most of the common elements are a block element which means they have the same width as their parent width, and apear as a list under eachother with their siblings. Some examples of common block elements are: main, article, section, div, h1 and p.
 
 ![display block](img/display-block.png)
 Figure 1: Display Block
