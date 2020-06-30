@@ -36,7 +36,9 @@ Figure 4: Flexbox 0
 In figure four, I made three flexboxes, the first one is a regular flexbox with its children next to eachother with a some of its chilldren outside of the parent container. The second flexbox has the propety "flex-wrap: wrap" so its children are possisioned nicely after the screen is too small. The last flexbox has fewer children and has the propety "justify-content:space-evenly", this means that its children are kinda centred because all the space between the children and the parend are perfectly evenly devided.
 
 ### Display grid
-The last display propety I would like to discuss is the grid, 
+The last display propety I would like to discuss is the grid, you can almost compare a grid with a flexbox, except that it is 2 dimensional instead of 1 demenisonal. You can declare a grid with the "display:grid" propety,
+
+### Conclusion
 
 
 ### Sources
