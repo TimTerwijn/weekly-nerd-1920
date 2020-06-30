@@ -28,9 +28,10 @@ Figure 3: Opacity 0
 ### Display flex
 Over the years new dipslay propeties have apreared, these propeties are not standard bound to some elements, but just as with display none, you have to assign this proppety to a element yourself. A flexbox is a verry cool propety, display flex  is initialy a block element. However, it changes the behaviour of its children that they are all inline. Then you can customize the children even further with other flexbox propeties, you can center or put the children on the right side of the screen, you can even play with the space between the elements to create some thing great. With "flex-wrap: wrap" It is also possible to break the children if the child elements are bigger than your flexbox container (or your screen), this is cool because with this it is much easier to make parts of your website responseable.
 
-![flex](img/flex.png)  
-Figure 3: Flexbox 0
+![flex](img/flexbox.png)  
+Figure 4: Flexbox 0
 
+In figure four, I made three flexboxes, the first one is a regular flexbox with its children next to eachother with a some of its chilldren outside of the parent container. The second flexbox has the propety "flex-wrap: wrap" so its children are possisioned nicely after the screen is too small. The last flexbox has fewer children and has the propety "justify-content:space-evenly", this means that its children are kinda centred because all the space between the children and the parend are perfectly evenly devided.
 
 ### Display grid
 
