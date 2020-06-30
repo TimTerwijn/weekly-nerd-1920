@@ -20,13 +20,13 @@ The last classic display propety that I have used during this cource is the disp
 ![Display none](img/display-none.png)  
 Figure 3: Display none
 
-Sometimes it is better to use opacity: 0 because as you can see in figure 4, the entire page does not have te be redrawn. Opacity also works fantastic with transitions so you can do some cool things with it.
+If you can affort it, it can somethimes better to use opacity: 0, because as you can see in figure 4, the entire page does not have te be redrawn. Opacity also works fantastic with transitions so you can do some cool things with it.
 
 ![opacity](img/opacity.png)  
 Figure 3: opacity 0
 
 ### Display flex
-Over the years new dipslay propeties apreared, these propeties are not 
+Over the years new dipslay propeties have apreared, these propeties are not standard bound to some elements, but just as with display none, you have to assign this proppety to a element yourself. 
 
 ### Display grid
 
