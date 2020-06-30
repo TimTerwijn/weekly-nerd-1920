@@ -52,8 +52,30 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://css-tricks.com/snippets/css/complete-guide-grid/
 https://caniuse.com/
 
-
-
 ## Position atribute
+### Position static
+The second thing I would like to discuss is the position attribute, with the position attribute you can do some cool things. You can use this attribute to move elements from their original position, or align an element to the top, right, bottom, left and stick an element to the viewport. First of all I want to talk about the static position. The static possition is a possition that every element standart has. So this means that all elements are a static element so there is nothing special.
+
+![Position static](img/static.png)  
+Figure 6: Position static
+
+### Position relative
+An element with position relatave propety is exactly the same as a static element, except that it reacts to the "top", "left", "bottom" and "right" propeties. Each of these propeties moves the element away from the selected propety, so "top:1px" moves the element downwards by 1px. 
+
+![Position relative](img/relative.png)  
+Figure 6: Position relative
+
+
+### Conclusion
+
+
+### Sources
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
 
 ## Components
+
+
+### Conclusion
+
+
+### Sources
