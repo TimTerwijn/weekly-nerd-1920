@@ -62,7 +62,7 @@ Figure 6: Position static.
 ### Position relative
 An element with position relatave propety is exactly the same as a static element, except that it reacts to the "top", "left", "bottom" and "right" propeties. Each of these propeties moves the element away from the selected propety, so "top:1px" moves the element downwards by 1px.
 
-![Position relative](img/relative.png)  
+![Position relative](img/relative.PNG)  
 Figure 6: The child element is moved 10 px to the left with the right propety.
 
 ### Position absolute
