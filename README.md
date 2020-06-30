@@ -1,61 +1,28 @@
-# Weekly Nerd @cmda-minor-web · 2019-2020
+# Weekly nerd
+I have learned a lot during the minor webdevelopment, some things from working with Javascript mot most from working with HTML and CSS. Because I study software enginering and I already knew some things about coding I have chosen to focus this minor more on the creative classes. for this reason I want to write three articles about things I found most intresting of the things I have learned during this minor.
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+## Display attribute
+### Block 
+The display attribute is a very handy css tool you can use to moddify the behavour of an element. Most of the common elements are a block element which means they have the same width as their parent width, and apear as a list under eachother with their siblings. Some examples of common block elements are: <main>, <article> <section>, <div>, <h1> and <p>.
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+img
 
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-
-
-Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-
-
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
-
-
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
-
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
-
-
-### Voorbeelden van voorgaande jaren
-
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
-
-
-## Programma
-
-### Workshops, praatjes en lezingen
-
-
-| Datum  |  Wat/Wie | Waar  | Link | 
-|---|---|---|---|
-| 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
-| 19 Februari  | Sanne 't Hoofd - Code en UX  | BPH 01B11  |   |
-| 26 Februari  | FUNDA - Scrum en proof-of-concept  | Funda  |   |
-| ~~11 Maart~~  | ~~Voorhoede - PE~~ | ~~de Voorhoede~~  |   |
-| ~~18 Maart~~  | ~~Bol.com~~  | ~~Bol.com~~  |   |
-|   |   |   |   |   |
+There are some exeptions, some elememts are not a block element, because they are an inline element. This means that they are not 100% of their parent width and apear next to eachother.  
 
 
 
 
+### Flex
+
+### Grid
+
+### None
+
+### Sources
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
+
+
+
+## Position atribute
+
+## Components
