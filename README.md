@@ -1,7 +1,7 @@
 # Weekly nerd
 I have learned a lot during the minor webdevelopment, some things from working with Javascript mot most from working with HTML and CSS. Because I study software enginering and I already knew some things about coding I have chosen to focus this minor more on the creative classes. for this reason I want to write three articles about things I found most intresting of the things I have learned during this minor.
 
-## Display attribute
+## Article 1: Display attribute
 ### Display block 
 The display attribute is a very handy css tool you can use to moddify the behavour of an element. Most of the common elements are a block element which means they have the same width as their parent width, and apear as a list under eachother with their siblings. Some examples of common block elements are: main, article, section, div, h1 and p.  
 
@@ -52,7 +52,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://css-tricks.com/snippets/css/complete-guide-grid/
 https://caniuse.com/
 
-## Position atribute
+## Article 2: Position atribute
 ### Position static
 The second thing I would like to discuss is the position attribute, with the position attribute you can do some cool things. You can use this attribute to move elements from their original position, or align an element to the top, right, bottom, left and stick an element to the viewport. First of all I want to talk about the static position. The static possition is a possition that every element standart has. So this means that all elements are a static element so there is nothing special.
 
@@ -86,7 +86,7 @@ Lastly you also have position sticky, possition sticky is a combination between 
 ### Sources
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
 
-## CSS selectors
+## Article 3: CSS selectors
 The last thing that I want to discuss are some css selectors. CSS selectors are pretty cool, before this minor I had some experience wit Jquery, I used classes where ever I could. But during the CSS to the resque cource I learned that you do not need those CSS classes, and can do a lot with only CSS selectors which I will soon tell you more about. During the master cource  I started working with components. This way I learned that if you split of your HTML, CSS and javascript in several components, you can give an id to that component, then you can use CSS selectors to the children of that component with the id to keep a clean css file. 
 
 ### :nth-child()
