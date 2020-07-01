@@ -86,7 +86,8 @@ Lastly you also have position sticky, possition sticky is a combination between 
 ### Sources
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
 
-## Components
+## CSS selectors
+The last thing that I want to discuss are some css selectors. CSS selectors are pretty cool, before this minor I had some experience wit Jquery, I used classes where ever I could. But during the CSS to the resque cource I learned that you do not need those CSS classes, and can do a lot with only CSS selectors. During 
 
 
 ### Conclusion
