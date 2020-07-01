@@ -96,7 +96,10 @@ The last thing that I want to discuss are some css selectors. CSS selectors are 
 Figure 9: the second child is selected with div:nth-child(2).
 
 ### :nth-of-type()
-:nth-of-type() is something
+:nth-of-type() is something new I just learned today. It looks a lot like nth-child, but there is one difference. "div:nth-of-type(2)" selects the second div in the parent regardes of its possition. "div:nth-child(2)" also selects the second div but only if the second child of a parent is a div element. This is handy because you can add a compleet difrend child element to a parent later without destroying your css. It has to be anonther element or else it would not work.
+
+![:nth-of-type()](https://i0.wp.com/css-tricks.com/wp-content/csstricks-uploads/relationalpseudos2.png?resize=570%2C541)  
+Figure 10: An example of :nth-of-type() and :nth-child() (css-tricks.com)
 
 ### Conclusion
 
