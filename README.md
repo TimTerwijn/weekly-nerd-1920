@@ -87,8 +87,16 @@ Lastly you also have position sticky, possition sticky is a combination between 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
 
 ## CSS selectors
-The last thing that I want to discuss are some css selectors. CSS selectors are pretty cool, before this minor I had some experience wit Jquery, I used classes where ever I could. But during the CSS to the resque cource I learned that you do not need those CSS classes, and can do a lot with only CSS selectors which I will soon tell you more about. During the master cource  
+The last thing that I want to discuss are some css selectors. CSS selectors are pretty cool, before this minor I had some experience wit Jquery, I used classes where ever I could. But during the CSS to the resque cource I learned that you do not need those CSS classes, and can do a lot with only CSS selectors which I will soon tell you more about. During the master cource  I started working with components. This way I learned that if you split of your HTML, CSS and javascript in several components, you can give an id to that component, then you can use CSS selectors to the children of that component with the id to keep a clean css file. 
 
+### :nth-child()
+:nth-child() is a handy selector, you can use it to select one of the children of a parent. First you have to select a element, in figure 9 you can see that we have selected a div element. Then we need to declare the number of the child. So in this case we need the second child so the CSS would look like this: "div:nth-child(2)". You could even be more specific by targeting the ID of the component and the parent element like this: "#component>article>div:nth-child(2)".
+
+![:nth-child()](img/nth-child.png)  
+Figure 9: the second child is selected with div:nth-child(2).
+
+### :nth-of-type()
+:nth-of-type() is something
 
 ### Conclusion
 
