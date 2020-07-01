@@ -42,6 +42,7 @@ The last display property I would like to discuss is the grid, you can almost co
 Figure 5: Grid.
 
 ### Conclusion
+The display attribute is very handy, I would use grids as your website base or to center stuff instead of using a flexbox, because you can do so many more things with it. However, grids and flexboxes only work with modern browsers. So try to work on a fallback with both block and inline elements. It does not have to be something fancy, only functional in my opinion.
 
 ### Sources
 https://www.w3schools.com/html/html_blocks.asp
@@ -77,9 +78,10 @@ Position fixed works kinda the same a position absolute, there is one difference
 Figure 8: Position fixed.
 
 ### Position sticky
-Lastly you also have position sticky, position sticky is a combination between position fixed and position relative. It starts as a normal element, but if you scroll past it it sticks to the view port like a fixed element. This can be cool for things like menus.
+Lastly you also have position sticky, position sticky is a combination between position fixed and position relative. It starts as a normal element, but if you scroll past it, it sticks to the view port like a fixed element. This can be cool for things like menus.
 
 ### Conclusion
+With the position attributes you can do a lot of cool things. You can change the default HTML behavior completely. I would use position absolute to reposition elements in their container, like buttons or so. And I would use position fixed and sticky for menus and instead of alert messages.
 
 ### Sources
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
@@ -103,6 +105,7 @@ Figure 9: the second child is selected with div:nth-child(2).
 Figure 10: An example of :nth-of-type() and :nth-child() (css-tricks.com)
 
 ### Conclusion
+I like CSS selectors a lot. I have learned so much this semester and these CSS selectors with components makes my HTML and CSS so readable for me. I would give each component an id and target all the items inside of that component with semantic HTML and if necessary with :nth-of-type().
 
 ### Sources
 https://css-tricks.com/pseudo-class-selectors/
