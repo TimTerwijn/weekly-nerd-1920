@@ -89,6 +89,9 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
 ## Article 3: CSS selectors
 The last thing that I want to discuss are some css selectors. CSS selectors are pretty cool, before this minor I had some experience wit Jquery, I used classes where ever I could. But during the CSS to the resque cource I learned that you do not need those CSS classes, and can do a lot with only CSS selectors which I will soon tell you more about. During the master cource  I started working with components. This way I learned that if you split of your HTML, CSS and javascript in several components, you can give an id to that component, then you can use CSS selectors to the children of that component with the id to keep a clean css file. 
 
+### element>element
+With this selector it is possible to select all of the childs of a specivic element inside a parerent. I think this is quite usefull because you can be really specivic what element you want to select without ugly css classes in combination with 
+
 ### :nth-child()
 :nth-child() is a handy selector, you can use it to select one of the children of a parent. First you have to select a element, in figure 9 you can see that we have selected a div element. Then we need to declare the number of the child. So in this case we need the second child so the CSS would look like this: "div:nth-child(2)". You could even be more specific by targeting the ID of the component and the parent element like this: "#component>article>div:nth-child(2)".
 
@@ -105,3 +108,5 @@ Figure 10: An example of :nth-of-type() and :nth-child() (css-tricks.com)
 
 
 ### Sources
+https://css-tricks.com/pseudo-class-selectors/
+https://www.w3schools.com/cssref/css_selectors.asp
