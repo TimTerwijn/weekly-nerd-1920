@@ -71,6 +71,15 @@ My favorite position, I used to use a grid for this but since I have learned abo
 ![Position absolute](img/absolute.png)  
 Figure 7: Some amazing things you can do with the absolute propety.
 
+### Position fixed
+Position fixed works kinda the same a position absoulute, there is one difference though, a fixed element does not stick to the first relative element but to the viewport. This means you can make some cool things like a alert box or add a logo in the bottom left of the screen. This also means that if you scroll the element that is position fixed stayed in place because it is fixed to the viewport.
+
+![Position fixed](img/fixed.png)  
+Figure 8: Position fixed.
+
+### Position sticky
+Lastly you also have position sticky, possition sticky is a combination between position fixed and position relative. It starts as a normal element, but if you scroll past it it sticks to the viewport like a fixed element. This can be cool for things like menus.
+
 ### Conclusion
 
 
